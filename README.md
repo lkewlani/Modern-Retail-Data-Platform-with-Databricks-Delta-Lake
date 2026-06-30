@@ -62,6 +62,3 @@ Using Lakeflow Spark Delarative pipelines with Delta Lake.
     - Product
     - Customers
     - Calendar
-
-
-Connection String - postgresql://neondb_owner:npg_opGVKQkX01jb@ep-tiny-block-ao7xk74g.c-2.ap-southeast-1.aws.neon.tech/neondb?sslmode=require
